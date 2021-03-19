@@ -1,4 +1,4 @@
-# Learn to Build Image Caption Generator with CNN & LSTM 
+#  Image Caption Generator with CNN & LSTM 
 
 # Description
 The objective of our project is to learn the concepts of a CNN and LSTM model and build a working model of Image caption generator by implementing CNN with LSTM. 
