@@ -6,7 +6,7 @@ The objective of our project is to learn the concepts of a CNN and LSTM model an
 In this Python project, we will be implementing the caption generator using CNN (Convolutional Neural Networks) and LSTM (Long short term memory). The image features will be extracted from Xception which is a CNN model trained on the imagenet dataset and then we feed the features into the LSTM model which will be responsible for generating the image captions. 
 
  # Dataset
- https://www.kaggle.com/deadskull7/fer2013
+ https://www.kaggle.com/adityajn105/flickr8k?select=captions.txt
  
  # Model
  
